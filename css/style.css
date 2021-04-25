@@ -313,6 +313,7 @@ a, h1, h2, h3, h4, h5, h6 , li, button, p {
     background-color: #DDC1FE;
     border-radius: 70px;
     margin: 0 143.43px 0px 144.7px;
+    border: 0;
 }
 .content__right .small-news-right .news-right__button p {
     font-style: normal;
